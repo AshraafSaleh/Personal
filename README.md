@@ -4,12 +4,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <h4 align="center">Strive to be better every minute!</h4>
-  <h3 align="center">Enthusiast programmer that in love with software developement.</h3>
 </div>
 
 #### 👨: About Me
+- Enthusiast programmer that in love with software developement.
 - Currently exploring **Python, Anaconda, and Alteryx**
 
+#### 👨: [Project]([https://www.example.com](https://intellectplayschool.com/))
+- Assigned as a leader to be in charged with my other group member to develop a demo website for a school playground.
+- Using HTML, PHP and JavaScript as my base code, and also mySql as the database, me and my team are able to develop a fully functional website for the client.
+- I also able to explore new things regarding this line of work either in the aspect of the confrontation with the client and also the being a full stack debveloper. 
 
 ---
 
