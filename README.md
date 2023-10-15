@@ -1,9 +1,10 @@
 <div id="profileView" align="center">
   <h1>
-  Hey there, I'm Naquib
+  Hey there, I'm Ashraaf Saleh
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <h4 align="center">Committed to life long learning</h4>
+  <h4 align="center">Strive to be better every minute!</h4>
+  <h3 align="center">Enthusiast programmer that in love with software developement.</h3>
 </div>
 
 #### 👨: About Me
